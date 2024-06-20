@@ -45,5 +45,5 @@ NAudio.WinForms
 NAudio.WinMM  
 
 
-Icon
+# Icon
 https://publicdomainvectors.org/en/free-clipart/Headphones-pictogram-vector-graphics/23136.html
