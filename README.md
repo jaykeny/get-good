@@ -27,22 +27,22 @@ Hopefully this helps someone out there. If others use it awesome, if not, I need
 
 
 # Python Libraries
-https://github.com/pyusb/pyusb/blob/master/LICENSE
-https://github.com/pyinstaller/pyinstaller?tab=License-1-ov-file#readme
+https://github.com/pyusb/pyusb/blob/master/LICENSE  
+https://github.com/pyinstaller/pyinstaller?tab=License-1-ov-file#readme  
 
 
 # C# Libraries
-Microsoft.NET.ILLink.Analyzers
-Microsoft.NET.ILLink.Tasks
-Microsoft.Win32.Registry
-System.Security.AccessControl
-System.Security.Principal.Windows
-NAudio
-NAudio.Asio
-NAudio.Core
-NAudio.Midi
-NAudio.WinForms
-NAudio.WinMM
+Microsoft.NET.ILLink.Analyzers  
+Microsoft.NET.ILLink.Tasks  
+Microsoft.Win32.Registry  
+System.Security.AccessControl  
+System.Security.Principal.Windows  
+NAudio  
+NAudio.Asio  
+NAudio.Core  
+NAudio.Midi  
+NAudio.WinForms  
+NAudio.WinMM  
 
 
 Icon
